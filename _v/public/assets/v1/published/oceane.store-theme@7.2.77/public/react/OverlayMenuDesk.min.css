@@ -1,0 +1,1 @@
+.overlayMenuDesk{display:none;opacity:0;position:fixed;width:100%;height:100%;z-index:5;background-color:rgba(0,0,0,.2);transition:.5s}.overlayMenuDesk.active{display:block;opacity:1}
